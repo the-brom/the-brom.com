@@ -36,6 +36,6 @@ website using
 <img src="signatures_optimized/21.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
 <img src="signatures_optimized/22.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
 <img src="signatures_optimized/23.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
-<img src="signatures_optimized/24.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
+<img src="signatures_optimized/24.jpg" alt="Signature" style="height:60px;width:300px;"><br><img src="space.png">
 <img src="signatures_optimized/25.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
 </center>
