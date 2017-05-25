@@ -5,10 +5,13 @@ tagline: From AICE Chemistry 2016-2017
 description: Mrs. Bromley is THE-BROM.COM!
 ---
 
-<img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;">[Github Pages](https://pages.github.com) provide a simple way to make a
+<img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;" ALIGN=”left” HSPACE=”50” VSPACE=”50”>
+
+[Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
+
 <center>
 <img src="signatures_optimized/1.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
 <img src="signatures_optimized/2.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
