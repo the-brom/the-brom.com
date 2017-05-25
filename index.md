@@ -17,9 +17,9 @@ website using
 <img src="signatures_optimized/5.jpg" alt="Signature" style="height:75px;width:300px;">          
 <img src="signatures_optimized/6.jpg" alt="Signature" style="height:75px;width:300px;"><br><br>
 <img src="signatures_optimized/7.jpg" alt="Signature" style="height:75px;width:300px;">          
-<img src="signatures_optimized/8.jpg" alt="Signature" style="height:75px;width:300px;"><br><br>
+<img src="signatures_optimized/8.jpg" alt="Signature" style="height:100px;width:300px;"><br><br>
 <img src="signatures_optimized/9.jpg" alt="Signature" style="height:75px;width:300px;">          
-<img src="signatures_optimized/10.jpg" alt="Signature" style="height:75px;width:300px;"><br><br>
+<img src="signatures_optimized/10.jpg" alt="Signature" style="height:125px;width:300px;"><br><br>
 <img src="signatures_optimized/11.jpg" alt="Signature" style="height:75px;width:300px;">          
 <img src="signatures_optimized/12.jpg" alt="Signature" style="height:75px;width:300px;"><br><br>
 <img src="signatures_optimized/13.jpg" alt="Signature" style="height:75px;width:300px;">          
