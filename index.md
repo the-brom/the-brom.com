@@ -5,7 +5,7 @@ tagline: From AICE Chemistry 2016-2017
 description: Mrs. Bromley is THE-BROM.COM!
 ---
 
-<img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;" ALIGN=”left” HSPACE=”50” VSPACE=”50”>
+<img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;">
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
