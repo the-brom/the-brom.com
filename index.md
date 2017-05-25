@@ -5,7 +5,7 @@ tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-<img src="bromley.png" alt="The Brom!" style="height:300px;width:200px;">[Github Pages](https://pages.github.com) provide a simple way to make a
+<img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;">[Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
