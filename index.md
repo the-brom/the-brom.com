@@ -7,7 +7,6 @@ description: Mrs. Bromley is THE-BROM.COM!
 
 <center>
 <h2>You're the bomb, Brom!</h2>
-<h3>This page is dedicated to THE-BROM.COM, Mrs. Bromley.<h3>
 <img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;"><br>
 <br>
 <h4>Hey Bromley, we're all going to miss you. This year has been a pain in the acid for most us, but you've always known when to drop the base. Your attitude and teaching skills turned an insane course into one that we looked forward to. You've been the catalyst to every good day. We appreciate your never-ceasing work in preparing us for the exams; you've maintained your state even under all that pressure. We could cool you to -273 degrees Celsius and you'd still be 0K! We won't know what to do when you argon.<h4>
