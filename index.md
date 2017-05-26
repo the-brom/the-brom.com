@@ -8,7 +8,9 @@ description: Mrs. Bromley is THE-BROM.COM!
 <center>
 <h2>You're the bomb, Brom!</h2>
 <img src="bromley.png" alt="The Brom!" style="height:300px;width:225px;"><br>
-This is where our special message full of chemistry puns will go.
+<br>
+<h4>This is where our special message full of chemistry puns will go.<h4>
+<br>
 <img src="signatures_optimized/1.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
 <img src="signatures_optimized/2.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
 <img src="signatures_optimized/3.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
