@@ -32,5 +32,7 @@ This is where our special message full of chemistry puns will go.
 <img src="signatures_optimized/21.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
 <img src="signatures_optimized/22.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
 <img src="signatures_optimized/23.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
+<img src="signatures_optimized/26.jpg" alt="Signature" style="height:75px;width:300px;"><br><img src="space.png">
+<img src="signatures_optimized/27.jpg" alt="Signature" style="height:75px;width:150px;"><img src="space.png">
 <img src="signatures_optimized/24.jpg" alt="Signature" style="height:60px;width:300px;"><br><img src="space.png">
 <img src="signatures_optimized/25.jpg" alt="Signature" style="height:75px;width:300px;"><img src="space.png">
